@@ -1,8 +1,8 @@
 
-      $(document).ready(function () {
+       $(document).ready(function () {
         $(".hiddenDiv").click(function(){
-          $(".hidden").hide();
           $(this).next().fadeToggle("slow");
+          $(this).siblings(".hiddenDiv").next().hide()
         });
     });
     
