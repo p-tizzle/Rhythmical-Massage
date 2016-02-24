@@ -51,6 +51,13 @@
   overflow:auto;
 }
 
+.info {
+  display:none;
+}
+
+#email {
+ margin: auto;
+}
   
 }
 
