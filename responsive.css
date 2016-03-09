@@ -67,13 +67,21 @@ header, .title {
 
 
 @media screen and (max-width: 1300px){
+
   
-  
-#email, #addressInfo, .maps {
+#email, #addressInfo, #mapSection {
   width:100%;
   border:none;
 }
-  
+#mymap {
+  margin:3% auto;
+}
+
+#sabrinaPic, #oils {
+  width:175px;
+}
+
+ 
 .aboutMe {
   width: 80%;
   margin: 0 5%;
@@ -98,6 +106,12 @@ header, .title {
   width: 100%;
   margin:0;
 }
+
+.sessionDescription, .sessionDes {
+  margin: 2% 10%;
+  width:80%;
+}
+
 
    
  }
