@@ -30,6 +30,8 @@
  }
 
 
+
+
 }
 
 
@@ -45,7 +47,6 @@
 #clip{
   display:none;
 }
-
 #sabpic{
   display:none;
 }
@@ -94,8 +95,17 @@ header, .title {
 #sabrinaPic {
   margin:4%;
 }
+
+
+
+
+
+
+
+
+
 }
- @media screen and (max-width: 1000px){
+ @media screen and (max-width: 1100px){
    
  .links li {
     display: block;
@@ -111,6 +121,12 @@ header, .title {
   margin: 2% 10%;
   width:80%;
 }
+
+li {
+  margin: 0 auto;
+  width: 300px;
+}
+
 
 
    
