@@ -114,7 +114,7 @@ li a{
 
 li a:hover{
   background-color: #69857B;
-  box-shadow: 0 0 50px #fff;
+  box-shadow: 0 0 20px #fff;
 }
 li a:active {
   background-color: white;
@@ -222,9 +222,9 @@ li a:active {
   color: white;
 }
 .hiddenDiv:hover {
-  background-color:#5CB88E;
-  border-radius: 25px;
-  box-shadow: 0 0 300px #fff;
+ /* background-*/color:#5CB88E;
+ /* border-radius: 25px;*/
+  box-shadow: 0 0 150px #fff;
 }
 #basicinfo {
    margin: 1% 35% 5% 35%;
